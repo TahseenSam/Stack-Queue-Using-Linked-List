@@ -47,3 +47,5 @@ This repository contains C++ programs for implementing a Stack and a Queue data 
 - These programs use a basic console interface and may not handle error cases such as memory allocation failures or invalid user inputs. You can enhance error handling as needed.
 
 Feel free to use and modify these programs as needed for your specific use case. Enjoy working with stacks and queues using linked lists!
+
+## A Self Practice Program  
