@@ -8,6 +8,7 @@ This repository contains C++ programs for implementing a Stack and a Queue data 
 - [Stack](#stack)
 
 ## Queue
+![image](https://github.com/TahseenSam/Stack-Queue-Using-Linked-List/assets/95973635/71b84756-78ae-4618-b885-37bbefb71293)
 
 ### Program Description
 - The `Queue` program implements a queue using a linked list. It provides the following operations:
@@ -24,6 +25,7 @@ This repository contains C++ programs for implementing a Stack and a Queue data 
 6. Repeat the process as needed.
 
 ## Stack
+![image](https://github.com/TahseenSam/Stack-Queue-Using-Linked-List/assets/95973635/74a5a6b4-36eb-4c5e-822a-3bcd035f743f)
 
 ### Program Description
 - The `Stack` program implements a stack using a linked list. It provides the following operations:
